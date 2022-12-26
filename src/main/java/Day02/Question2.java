@@ -5,6 +5,6 @@ public class Question2 {
         int i=10;
         int j=20;
         int k= (j+=i)/5;
-        System.out.println(i + ":" + j + ":" + k); //Output ===> 10:30:6
+        System.out.println(i + ":" + j + ":" + k); //Output ===> A)10:30:6
     }
 }
